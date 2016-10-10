@@ -27,4 +27,4 @@ Time spent: 4 hours
 ## Walkthrough Gif:
 
 `<Add your Walkthrough Gif here (by updating the image URL)>`
-![Video Walkthrough](...)
+![Assignment1-sjowmt.gif](...)
