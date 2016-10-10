@@ -26,4 +26,6 @@ Time spent: 4 hours
 
 ## Walkthrough Gif:
 
-https://github.com/sjowmt/assignment1/blob/master/Assignment1-sjowmt.gif
+![https://github.com/sjowmt/assignment1/blob/master/Assignment1-sjowmt.gif]
+
+
