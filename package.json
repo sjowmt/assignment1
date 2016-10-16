@@ -19,14 +19,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/CrabDude/nodejs-clis.git"
+    "url": "git@github.com:sjowmt/assignment1.git"
   },
-  "author": "Adam Crabtree",
+  "author": "Sushant Joshi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CrabDude/nodejs-clis/issues"
+    "url": "https://github.com/sjowmt/assignment1/issues"
   },
-  "homepage": "https://github.com/CrabDude/nodejs-clis#readme",
+  "homepage": "https://github.com/sjowmt/assignment1/blob/master/README.md",
   "dependencies": {
     "babel-cli": "^6.16.0",
     "babel-preset-nodev6": "^1.0.0",
